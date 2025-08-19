@@ -1,5 +1,6 @@
 # UpDesk-PIM-4
-About Um projeto acadêmico onde será desenvolvido um sistema de abertura de chamado com inteligência artificial.
+## Sobre o Projeto
+**UpDesk** é um projeto acadêmico focado no desenvolvimento de um sistema de abertura de chamados com suporte de **inteligência artificial**.
 ## BACKLOG DE PRODUTO
 - **Backlog do Produto**:  [Backlog do UpDesk](https://github.com/mancijo/UpDesk/blob/main/Analysis%20Planning/BacklogUpDesk.md)
 ## CRONOGRAMA DE EVOLUÇÃO
