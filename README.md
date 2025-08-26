@@ -22,11 +22,11 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## 📊 Tabela de Sprints
 
-| Período da Sprint | Documentação | Incremento (YouTube) |
-|-------------------|--------------|-----------------------|
-| Sprint 1 | Planejamento inicial | [Vídeo Sprint 1](https://youtube.com/placeholder) |
-| Sprint 2 | Backlog de Sprint | [Vídeo Sprint 2](https://youtube.com/placeholder) |
-| Sprint 3 | Requisitos & Casos de Uso | [Vídeo Sprint 3](https://youtube.com/placeholder) |
+| Período da Sprint | Documentação | 
+|-------------------|--------------|
+| Sprint 1 | Planejamento inicial | 
+| Sprint 2 | Backlog de Sprint | 
+| Sprint 3 | Requisitos & Casos de Uso | 
 
 ---
 
