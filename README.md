@@ -31,21 +31,29 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **Backend**: Python
+- **Backend**: Python+Flask
 - **Banco de Dados**: MS SQL Server  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
-- **Protótipos**: Figma  
-- **Versionamento**: GitHub  
+- **Protótipos**: [Figma](https://www.figma.com/design/zsCyy2iAYMPcS7DAUR5rye/Sem-t%C3%ADtulo?node-id=1-1784&m=dev)  
+- **Versionamento**: Git/GitHub  
 - **Metodologia**: Scrum  
 
 ---
 
 ## 📂 Estrutura do Projeto
-UpDesk/
-│── src/ # Código-fonte do sistema
-│── db/ # Scripts SQL e modelagem
-│── tests/ # Casos e roteiros de testes
-│── README.md # Apresentação principal do projeto
+   
+📁 app/                   # Pasta principal da aplicação  
+ ┣ 📁 templates/          # Arquivos HTML (renderizados pelo Flask)  
+ ┣ 📁 static/             # Arquivos estáticos (CSS, JS, imagens)  
+ ┣ 📁 models/             # Classes e entidades do sistema (POO)  
+ ┣ 📁 routes/             # Definição das rotas/endpoints do Flask  
+ ┗ 📁 utils/              # Funções auxiliares (integração IA, helpers, etc.)  
+   
+📁 database/              # Configurações e scripts do banco de dados  
+ ┗ 📄 schema.sql          # Estrutura inicial do banco de dados (DDL)  
+  
+📄 app.py                 # Arquivo principal da aplicação (ponto de entrada)  
+📄 requirements.txt       # Lista de dependências Python do projeto 
 
 ---
 
