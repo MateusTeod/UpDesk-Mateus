@@ -13,10 +13,19 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## Cronograma de Desenvolvimento - Software de Gestão de Chamados
 - **Cronograma de sprint**: [Sprint Planning](https://github.com/mancijo/UpDesk/blob/main/Dev%20planning/sprintPlanning.md)
-- ## 📅 Cronograma de Evolução
 - **Etapa 1** → Levantamento de requisitos e modelagem inicial  
 - **Etapa 2** → Protótipos em baixa, média e alta fidelidade (Figma)  
 - **Etapa 3** → Implementação da interface web e modelagem do banco
+
+- # 📅 Cronograma de Evolução
+
+| Fase / Sprint | Período        | Atividades Principais                                                                    |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------- |
+| Planejamento  | 26/08 – 02/09  | Definição do backlog, levantamento de requisitos, configuração inicial do repositório    |
+| Sprint 1      | 03/09 – 09/09  | Desenvolvimento do caso de uso                                                           |
+| Sprint 2      | 10/09 – 16/09  | Desenvolvimento diagrama de classe                                                       |
+| Sprint 3      | 17/09 – 23/09  | Desenvolvimento diagrama de sequência                                                    |
+| Sprint 4      | 24/09 – 30/09  | Desenvolvimento diagrama de implantacão                                                  |
   
 - ---
 
