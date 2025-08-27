@@ -1,23 +1,36 @@
+<p align="center">
+  | <a href="#sobre-o-projeto">Sobre o Projeto</a> |
+  <a href="#backlog-do-produto">Backlog do Produto</a> |
+  <a href="#cronograma-de-desenvolvimento">Cronograma de desenvolvimento |
+  <a href="#cronograma-de-evolucao">Cronograma de Evolução</a> |
+  <a href="#sprints">Sprints</a> |
+  <a href="#tecnologias-utilizadas">Tecnologias</a> |
+  <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
+  <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
+ <a href="#documentacao">Documentação</a> |  
+  <a href="#equipe">Equipe</a> |
+</p>
+
 # 🤖UpDesk-PIM-4
-## 📜Sobre o Projeto
+## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
 O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
 Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
 O UpDesk propõe uma solução inovadora com inteligência artificial integrada, permitindo a sugestão automática de soluções, categorização de chamados e direcionamento para o nível adequado de suporte.
 
 ---
 
-## BACKLOG DE PRODUTO
+## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
 - **Backlog do Produto**:  [Backlog do UpDesk](https://github.com/mancijo/UpDesk/blob/main/Analysis%20Planning/BacklogUpDesk.md)
 
 ---
 
-## Cronograma de Desenvolvimento - Software de Gestão de Chamados
+## Cronograma de Desenvolvimento - Software de Gestão de Chamados <a id="cronogrma-de-desenvolvimento"></a>
 - **Cronograma de sprint**: [Sprint Planning](https://github.com/mancijo/UpDesk/blob/main/Dev%20planning/sprintPlanning.md)
 - **Etapa 1** → Levantamento de requisitos e modelagem inicial  
 - **Etapa 2** → Protótipos em baixa, média e alta fidelidade (Figma)  
 - **Etapa 3** → Implementação da interface web e modelagem do banco
 
-- # 📅 Cronograma de Evolução
+- # 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 
 | Fase / Sprint | Período        | Atividades Principais                                                                    |
 | ------------- | -------------- | ---------------------------------------------------------------------------------------- |
@@ -29,7 +42,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
   
 - ---
 
-## 📊 Tabela de Sprints
+## 📊 Tabela de Sprints <a id="sprints"></a>
 
 | Período da Sprint | Documentação | 
 |-------------------|--------------|
@@ -39,7 +52,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
 - **Backend**: Python+Flask
 - **Banco de Dados**: MS SQL Server  
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap  
@@ -49,7 +62,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto <a id="estrutura-de-pastas"></a>
    
 📁 app/                   # Pasta principal da aplicação  
  ┣ 📁 templates/          # Arquivos HTML (renderizados pelo Flask)  
@@ -66,7 +79,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## ▶️ Como Executar, Usar e Testar o Projeto
+## ▶️ Como Executar, Usar e Testar o Projeto <a id="como-rodar-o-projeto"></a>
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/mancijo/UpDesk.git
@@ -78,7 +91,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## 📑 Documentação
+## 📑 Documentação <a id="documentacao"></a>
 Este documento reúne:
 
 - Modelagem do banco de dados
@@ -133,7 +146,7 @@ A autenticação garante o acesso às funcionalidades de acordo com a hierarquia
 
 ---
 
-- ## 👥 Equipe do Projeto
+- ## 👥 Equipe do Projeto <a id="equipe"></a>
 - **Product Owner (PO):** Jonatas Santos  
 - **Scrum Master:** Andrei Mancijo  
 - **Dev Team:**  
