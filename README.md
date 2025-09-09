@@ -24,23 +24,28 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## Cronograma de Desenvolvimento - Software de Gestão de Chamados <a id="cronogrma-de-desenvolvimento"></a>
-- **Cronograma de sprint**: [Sprint Planning](https://github.com/mancijo/UpDesk/blob/main/Dev%20planning/sprintPlanning.md)
-- **Etapa 1** → Levantamento de requisitos e modelagem inicial  
-- **Etapa 2** → Protótipos em baixa, média e alta fidelidade (Figma)  
-- **Etapa 3** → Implementação da interface web e modelagem do banco
-
 - # 📅 Cronograma de Evolução <a id="cronograma-de-evolucao"></a>
 
 | Fase / Sprint | Período        | Atividades Principais                                                                    |
 | ------------- | -------------- | ---------------------------------------------------------------------------------------- |
 | Planejamento  | 26/08 – 02/09  | Definição do backlog, levantamento de requisitos, configuração inicial do repositório    |
-| Sprint 1      | 03/09 – 09/09  | Desenvolvimento do caso de uso                                                           |
-| Sprint 2      | 10/09 – 16/09  | Desenvolvimento diagrama de classe                                                       |
-| Sprint 3      | 17/09 – 23/09  | Desenvolvimento diagrama de sequência                                                    |
-| Sprint 4      | 24/09 – 30/09  | Desenvolvimento diagrama de implantacão                                                  |
+| Sprint 1      | 03/09 – 09/09  | Planejamento inicial                                                                     |
+| Sprint 2      | 10/09 – 16/09  | Backlog de Sprint                                                                        |
+| Sprint 3      | 17/09 – 23/09  | Requisitos & Casos de Uso                                                                |
+| Sprint 4      | 24/09 – 30/09  | Diagrama de classe                                                                       |
+| Sprint 5      | 31/09 – 06/10  | Diagrama de sequencia                                                                    |
+| Sprint 6      | 07/10 – 13/10  | Diagrama de implantacao                                                                  |
   
-- ---
+---
+
+## Cronograma de Desenvolvimento - Software de Gestão de Chamados <a id="cronogrma-de-desenvolvimento"></a>
+- **Cronograma de sprint**: [Sprint Planning](https://github.com/mancijo/UpDesk/blob/main/Dev%20planning/sprintPlanning.md)
+  
+  ✔Etapa 1 → Levantamento de requisitos e modelagem inicial  
+    ✔Etapa 2 → Protótipos em baixa, média e alta fidelidade (Figma)  
+      ✔Etapa 3 → Implementação da interface web e modelagem do banco
+
+
 
 ## 📊 Tabela de Sprints <a id="sprints"></a>
 
@@ -48,9 +53,14 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 |-------------------|--------------|
 | Sprint 1 | Planejamento inicial | 
 | Sprint 2 | Backlog de Sprint | 
-| Sprint 3 | Requisitos & Casos de Uso | 
+| Sprint 3 | Requisitos & Casos de Uso |
+| Sprint 4 | Diagrama de classe |
+| Sprint 5 | Diagrama de Sequencia |
+| Sprint 6 | Diagrama de implantacao |
 
 ---
+
+[Documentacao da sprint]([https://github.com/mancijo/UpDesk/tree/main/Documentation](https://github.com/mancijo/UpDesk/blob/main/Dev%20planning/sprintPlanning.md))
 
 ## 🛠 Tecnologias Utilizadas <a id="tecnologias-utilizadas"></a>
 - **Backend**: Python+Flask
@@ -91,14 +101,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ---
 
-## 📑 Documentação <a id="documentacao"></a>
-Este documento reúne:
-
-- Modelagem do banco de dados
-- Diagramas de casos de uso e sequência
-- Planejamentos de sprint
-- Roteiros de teste
-- Políticas de LGPD
+[Pasta da documentacao](https://github.com/mancijo/UpDesk/tree/main/Documentation)
 
 ---
 
@@ -146,17 +149,13 @@ A autenticação garante o acesso às funcionalidades de acordo com a hierarquia
 
 ---
 
-- ## 👥 Equipe do Projeto <a id="equipe"></a>
-- **Product Owner (PO):** Jonatas Santos  
-- **Scrum Master:** Andrei Mancijo  
-- **Dev Team:**  
-  - Mariozan Damasceno Lacerda Júnior  
-  - Mateus Teodoro  
-  - Kaique Batista da Silva  
-  - Filipe Vitor dos Santos  
+# 👨🏾‍💻 Equipe 
+| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
+| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
+| Mateus Teodoro da Silva | Desenvolvedor Back-end | [GitHub](https://github.com/MateusTeod/)| [LinkedIn](https://www.linkedin.com/in/mateus-teod/) |
+
 
 ---
 
-[Github](https://github.com/MateusTeod/)
-[Linkedin](https://www.linkedin.com/in/mateus-teod)
+
 
