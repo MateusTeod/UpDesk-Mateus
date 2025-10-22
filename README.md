@@ -7,8 +7,8 @@
   <a href="#tecnologias-utilizadas">Tecnologias</a> |
   <a href="#estrutura-de-pastas">Estrutura de Pastas</a> |  
   <br>  | <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a> |  
- <a href="#documentacao">Documentação</a> |  
-  <a href="#equipe">Equipe</a> |
+  <a href="#documentacao">Documentação</a> |  
+  <a href="#equipe">Equipe</a> | <a href="#diagramas">Diagramas</a>
 </p>
 
 ---
@@ -77,6 +77,12 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 - [Manual de Usuário](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Dev%20planning/Manual%20de%20usuario.md)
 
+
+---
+
+## 📂Diagramas
+
+- [Diagramas](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/diagrams/UML_upDesk.asta)
 
 ---
 
