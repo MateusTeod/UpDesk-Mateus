@@ -13,7 +13,7 @@
 
 ---
 
-# 🤖UpDesk-PIM-4
+# 🤖UpDesk-Mateus
 ## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
 O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
 Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
