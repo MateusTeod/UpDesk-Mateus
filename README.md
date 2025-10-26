@@ -22,18 +22,18 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
-- [Backlog do UpDesk](https://github.com/mancijo/UpDesk/blob/main/Analysis%20Planning/BacklogUpDesk.md)
+- [Backlog do UpDesk](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/sprintBacklog.md)
 
 ---
 
 ## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
-- [Cronograma de evolução UpDesk](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Cronograma%20de%20evolucao.xlsx)
+- [Cronograma de evolução UpDesk](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/Cronograma%20de%20evolu%C3%A7%C3%A3o.md)
 
 ---
 
 ## 📊 Tabela de Sprints <a id="sprints"></a>
 
-- [Tabela de sprint descritiva](https://github.com/MateusTeod/UpDesk-PIM-4/blob/main/Tabela%20de%20sprint.xlsx)
+- [Tabela de sprint descritiva](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/Tabela%20de%20sprint%20descritiva.md)
 
 ---
 
@@ -57,7 +57,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## Pasta de documentação
 
-- [Pasta da documentacao](https://github.com/mancijo/UpDesk/tree/main/Documentation)
+- [Pasta da documentacao](https://github.com/MateusTeod/UpDesk-Mateus/tree/main/Documentacao/PIM%20IV/Documenta%C3%A7%C3%A3o%20separada)
 
 ---
 
