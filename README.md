@@ -13,7 +13,7 @@
 
 ---
 
-# 🤖UpDesk-Mateus
+# 🤖UpDesk-Andrei
 ## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
 O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
 Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
@@ -87,9 +87,9 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 # 👨🏾‍💻 Equipe 
-| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
-| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
-| Mateus Teodoro da Silva | Desenvolvedor Back-end | [GitHub](https://github.com/MateusTeod/)| [LinkedIn](https://www.linkedin.com/in/mateus-teod/) |
+| Nome                    | Papel                    | GitHub                                  | LinkedIn                                             |
+| ----------------------- | ------------------------ | --------------------------------------- | ---------------------------------------------------- |
+| Andrei Henrique Mancijo | Desenvolvedor Full Stack | [GitHub](https://github.com/mancijo/)| [LinkedIn](www.linkedin.com/in/andrei-henrique-mancijo-a7b956247) |
 
 
 ---
