@@ -14,7 +14,7 @@ Este documento detalha o cronograma do projeto, dividindo as tarefas por semana 
 
 ### **ServerSide (Back-End)**
 - **Jonatas**: Desenvolvimento do CRUD (Create, Read, Update, Delete) para o chat, utilizando MySQL.
-- **Matheus**: Desenvolvimento do CRUD para perfis, utilizando MySQL.
+- **Andrei**: Desenvolvimento do CRUD para perfis, utilizando MySQL.
 
 ---
 

@@ -6,7 +6,7 @@
 		Andrei: card chamado enviado - front
 	ServerSide:
 		Jonatas: CRUD Chat - mySQL chat
-		Matheus: CRUD Perfis - mySQL perfis
+		Andrei: CRUD Perfis - mySQL perfis
 
 26/08/2025
 	Desenvolvimento web:

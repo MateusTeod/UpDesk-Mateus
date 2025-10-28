@@ -13,7 +13,7 @@
 
 ---
 
-# 🤖UpDesk-Mateus
+# 🤖UpDesk-Andrei
 ## 📜Sobre o Projeto <a id="sobre-o-projeto"></a>
 O **UpDesk** tem como objetivo resolver uma dor comum de empresas e setores de TI: a dificuldade na triagem, priorização e acompanhamento de chamados de suporte.
 Muitas vezes, usuários enfrentam demora no atendimento devido à falta de organização, categorização incorreta ou sobrecarga de analistas.
@@ -22,18 +22,18 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 ---
 
 ## BACKLOG DE PRODUTO <a id="backlog-do-produto"></a>
-- [Backlog do UpDesk](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/sprintBacklog.md)
+- [Backlog do UpDesk](https://github.com/mancijo/UpDesk-Andrei/blob/main/Dev%20planning/sprintBacklog.md)
 
 ---
 
 ## CRONOGRAMA DE EVOLUÇÃO <a id="cronograma-de-evolucao"></a>
-- [Cronograma de evolução UpDesk](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/Cronograma%20de%20evolu%C3%A7%C3%A3o.md)
+- [Cronograma de evolução UpDesk](https://github.com/mancijo/UpDesk-Andrei/blob/main/Dev%20planning/Cronograma%20de%20evolu%C3%A7%C3%A3o.md)
 
 ---
 
 ## 📊 Tabela de Sprints <a id="sprints"></a>
 
-- [Tabela de sprint descritiva](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/Dev%20planning/Tabela%20de%20sprint%20descritiva.md)
+- [Tabela de sprint descritiva](https://github.com/mancijo/UpDesk-Andrei/blob/main/Dev%20planning/Tabela%20de%20sprint%20descritiva.md)
 
 ---
 
@@ -57,7 +57,7 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## Pasta de documentação
 
-- [Pasta da documentacao](https://github.com/MateusTeod/UpDesk-Mateus/tree/main/Documentacao/PIM%20IV/Documenta%C3%A7%C3%A3o%20separada)
+- [Pasta da documentacao](https://github.com/mancijo/UpDesk-Andrei/tree/main/Documentacao/PIM%20IV/Documenta%C3%A7%C3%A3o%20separada)
 
 ---
 
@@ -82,14 +82,14 @@ O UpDesk propõe uma solução inovadora com inteligência artificial integrada,
 
 ## 📂Diagramas
 
-- [Diagramas](https://github.com/MateusTeod/UpDesk-Mateus/blob/main/diagrams/UML_upDesk.asta)
+- [Diagramas](https://github.com/mancijo/UpDesk-Andrei/blob/main/diagrams/UML_upDesk.asta)
 
 ---
 
 # 👨🏾‍💻 Equipe 
-| Nome                    | Papel                  | GitHub                                  | LinkedIn                                             |
-| ----------------------- | ---------------------- | --------------------------------------- | ---------------------------------------------------- |
-| Mateus Teodoro da Silva | Desenvolvedor Back-end | [GitHub](https://github.com/MateusTeod/)| [LinkedIn](https://www.linkedin.com/in/mateus-teod/) |
+| Nome                    | Papel                    | GitHub                                  | LinkedIn                                             |
+| ----------------------- | ------------------------ | --------------------------------------- | ---------------------------------------------------- |
+| Andrei Henrique Mancijo | Desenvolvedor Full Stack | [GitHub](https://github.com/mancijo/)| [LinkedIn](www.linkedin.com/in/andrei-henrique-mancijo-a7b956247) |
 
 
 ---
